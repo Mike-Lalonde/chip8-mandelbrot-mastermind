@@ -39,7 +39,7 @@ PEARLPINK = (245, 210, 230)
 BGCOLOUR = (240, 236, 229)
 
 
-COLOURS = (RED, GREEN, BLUE, YELLOW, PINK, ORANGE, SEAFOAM, VIOLET, BLACK, WHITE)
+COLOURS = (RED, GREEN, BLUE, YELLOW, PINK, ORANGE, SEAFOAM, VIOLET)
 
 # This is setting up the board and tiles
 ROWS = 5 # this represents how many columns the board will have
