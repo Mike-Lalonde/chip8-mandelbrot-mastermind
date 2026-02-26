@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Node / Vite (if any)
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# Archives & big binaries (keep out of repos)
+*.zip
+*.7z
+*.rar
+*.webm
+*.mp4
+*.mov
+
+# OS junk
+.DS_Store
+Thumbs.db
